@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'profiller',
+    'profiller.apps.ProfillerConfig',
     'rest_framework',
     'django_extensions',
 ]
